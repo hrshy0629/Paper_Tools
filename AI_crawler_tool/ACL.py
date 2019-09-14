@@ -4,6 +4,7 @@
 # significant computational linguistics research is carried out.
 # It was founded in 1962, originally named the Association for
 # Machine Translation and Computational Linguistics (AMTCL). It became the ACL in 1968.
+#http://www.acl2019.org/EN/index.xhtml
 import re
 import os
 import urllib.request
